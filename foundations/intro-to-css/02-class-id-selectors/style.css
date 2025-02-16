@@ -1,0 +1,18 @@
+.all{
+    background-color: pink;
+    font-family: Verdana, Dejavu, sans-serif;
+}
+
+#second{
+    color: blue;
+    font-size: 38px;
+}
+
+.onlyfont{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(110, 207, 110);
+    font-weight: bold;
+}
